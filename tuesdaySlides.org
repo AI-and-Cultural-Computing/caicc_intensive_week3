@@ -7,6 +7,10 @@
  + do synthetic datasets dream of unbiased sheep
 
 * Sharing research
+* Jargon file
+ + linear algebra
+ + vector
+ + tensor
 * What's coming next
 
  + What do you want?
