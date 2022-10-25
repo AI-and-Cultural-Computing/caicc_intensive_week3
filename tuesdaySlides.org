@@ -1,0 +1,19 @@
+* Welcome!
+* You Look Like a Thing
+* Data Conscience
+
+ + a critque of practical code
+ + on the origin of data
+ + do synthetic datasets dream of unbiased sheep
+
+* Sharing research
+* What's coming next
+
+ + What do you want?
+ + What do you need?
+
+ Possible options:
+ + coding group
+ + specific reading groups by topic
+ + Deep Learning for Coders weekly group!
+
